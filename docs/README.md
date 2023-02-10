@@ -1,7 +1,3 @@
----
-description: First just did a copy paste
----
-
 # Test content editing with gitbook
 
 ## About wikis
