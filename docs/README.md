@@ -1,4 +1,4 @@
-# Test contenttt123 editing with gitbook
+# Test content editing with gitbook
 
 ## About wikis
 

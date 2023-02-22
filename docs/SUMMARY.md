@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Test contenttt123 editing with gitbook](README.md)
-  * [😎 Subpage here](test-contenttt123-editing-with-gitbook/subpage-here/README.md)
-    * [Sub sub page](test-contenttt123-editing-with-gitbook/subpage-here/sub-sub-page.md)
-  * [Page 1](test-contenttt123-editing-with-gitbook/page-1.md)
+* [Test content editing with gitbook](README.md)
+  * [😎 Subpage here](test-content-editing-with-gitbook/subpage-here/README.md)
+    * [Sub sub page](test-content-editing-with-gitbook/subpage-here/sub-sub-page.md)
+  * [Page 1](test-content-editing-with-gitbook/page-1.md)
   * [Some external docs](https://docs.gitbook.com/getting-started/git-sync/enabling-github-sync)
 * [Copy paste test](copy-paste-test.md)
 
